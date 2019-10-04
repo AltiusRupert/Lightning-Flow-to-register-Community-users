@@ -13,3 +13,4 @@ https://help.salesforce.com/articleView?id=rss_flow_guestuser.htm&type=5
 
 Create Custom Component for Guest User Flows :
 https://developer.salesforce.com/docs/atlas.en-us.216.0.lightning.meta/lightning/components_config_for_flow_guest_user.htm
+avec le code Lighning Aura Component et Apex
